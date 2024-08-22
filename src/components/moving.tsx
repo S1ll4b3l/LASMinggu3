@@ -15,23 +15,23 @@ export function InfiniteMovingCardsDemo() {
 
 const testimonials = [
   {
-    quote: "Learned a lot about cybersecurity basics.",
-    title: "ITBOX Basic Cyber Security Course",
+    quote: "ITBOX ",
+    title: "Basic Cyber Security Course",
     name: "July 2024 - Present",
   },
   {
-    quote: "Learned a lot about cybersecurity basics.",
-    title: "Website Development Mini Bootcamp by GDSC",
+    quote: "Google Developer Student Club",
+    title: "Website Development Mini Bootcamp",
     name: "February 2024",
   },
   {
-    quote: "Learned a lot about cybersecurity basics.",
-    title: "Dicoding Basic Dev-Ops",
+    quote: "Dicoding",
+    title: "Basic Dev-Ops",
     name: "November 2023",
   },
   {
-    quote: "Learned a lot about cybersecurity basics.",
-    title: "Basic Cyber Security and ISO 27001 Awareness by TAALENTA",
+    quote: "TAALENTA",
+    title: "Basic Cyber Security and ISO 27001 Awareness",
     name: "November 2022",
   },
 ];
